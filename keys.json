@@ -1,30 +1,30 @@
 {
   "status": true,
+  "msg": "Login successful",
   "data": [
     {
       "token": "EPANGANTENGABIS",
       "rng": 1699999999,
-      "DURASI": "30 days",
-      "MOD_NAME": "Mod Menu XYZ",
-      "MOD_STATUS": "Active",
-      "btData": "true"
+      "duration": "30 days",
+      "mod_name": "Mod Menu XYZ",
+      "mod_status": "Active",
+      "bt_data": true
     },
     {
       "token": "token_2",
       "rng": 1700000000,
-      "DURASI": "15 days",
-      "MOD_NAME": "Mod Menu ABC",
-      "MOD_STATUS": "Expired",
-      "btData": "false"
+      "duration": "15 days",
+      "mod_name": "Mod Menu ABC",
+      "mod_status": "Expired",
+      "bt_data": false
     },
     {
       "token": "token_3",
       "rng": 1700100000,
-      "DURASI": "7 days",
-      "MOD_NAME": "Mod Menu DEF",
-      "MOD_STATUS": "Active",
-      "btData": "true"
+      "duration": "7 days",
+      "mod_name": "Mod Menu DEF",
+      "mod_status": "Active",
+      "bt_data": true
     }
-  ],
-  "msg": "Login successful"
+  ]
 }
