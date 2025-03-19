@@ -1,12 +1,4 @@
 {
-    "keys": [
-        {
-            "user_key": "ABCD-1234",
-            "hwid": "EXAMPLE-HWID"
-        },
-        {
-            "user_key": "EFGH-5678",
-            "hwid": "ANOTHER-HWID"
-        }
-    ]
+    "EPANGANTENGABIS": { "expired": "2025-12-31" },
+    "another-key": { "expired": "2024-10-01" }
 }
