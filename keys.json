@@ -1,4 +1,12 @@
 {
-    "EPANGANTENGABIS": { "expired": "2025-12-31" },
-    "another-key": { "expired": "2024-10-01" }
+  "status": true,
+  "data": {
+    "token": "EPANGANTENGABIS",
+    "rng": 1699999999,
+    "DURASI": "30 days",
+    "MOD_NAME": "Mod Menu XYZ",
+    "MOD_STATUS": "Active",
+    "btData": "true"
+  },
+  "msg": "Login successful"
 }
