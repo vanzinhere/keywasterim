@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "user_key": "ABCD-1234",
+            "hwid": "EXAMPLE-HWID"
+        },
+        {
+            "user_key": "EFGH-5678",
+            "hwid": "ANOTHER-HWID"
+        }
+    ]
+}
